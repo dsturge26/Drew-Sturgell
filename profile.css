@@ -1,0 +1,6 @@
+/* AI assignment timeline */
+.assignment{border-left:2px solid #61d2dc;padding-left:1.25rem;margin:1.6rem 0}
+.assignment h4{font-size:1.05rem;font-weight:700;line-height:1.45;color:#102738}
+.assignment p{color:#40596c;margin-top:.55rem}
+.assignment .assignment-date{color:#506678;font-size:.87rem;margin-top:.25rem}
+.assignment-note{font-size:.85rem}
