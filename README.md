@@ -19,3 +19,11 @@ The featured result is Drew’s reported estimate of 2.5 hours saved per seller 
 The two AI assignments are functional descriptions: AI Strategy & Adoption Lead (August 2024–June 2026) and AI Enablement & Value Realization Lead (June 2026–Present).
 
 The LinkedIn preview is assets/linkedin-preview.png (1200 × 630). Its editable source is assets/linkedin-preview.svg.
+
+## Expanded career evidence
+
+The September 2026 update uses Drew’s reviewed base materials and explicit public-use permission. It leads with a repeatable method for identifying workflows to augment or automate, standardizing adoption, and measuring value across eight core workflows. Risk assessment (approximately 60 minutes to five) is one example included in the broader 2.5-hour estimate, not an additional saving to add to it. Approximately 900 is the seller population, not a measured sample or AI Day attendance denominator.
+
+The page preserves separate evidence for the established four-year De-Risk cohort comparison and the newer single-product POC. The POC’s approximate 20%-to-60% YoY result is 40 percentage points; it is preliminary and exact cohorts are not verified. Higher-ARR selection limits causal interpretation of established De-Risk comparisons. The broader KPI baseline is still being established through fiscal Q1 ending in October; the first review is ahead. The agent strategy is agreed direction, not implemented business results.
+
+Expandable details keep the page readable while retaining measurement context. The September 2026 redesign uses a warm paper background, deep green typography, clear scope metrics, a four-step workflow method, and expandable evidence. LinkedIn preview metadata, preview assets, and GitHub Pages hosting remain in place. Styles are maintained directly in styles.css; profile.css is a legacy file and is no longer loaded. No external fonts, tracking, JavaScript, or build dependencies are required.
